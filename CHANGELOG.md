@@ -1,5 +1,9 @@
 # Public document history
 
+## 2026-10-27 — Privacy policy 1.2
+
+- Clarified AdMob’s existing use of IP-derived approximate location in Korean and English.
+
 ## 2026-10-27
 
 - Privacy policy 1.1: 13+ audience, non-personalized teen-safe advertising configuration, optional provider profile data, and hosting providers.
