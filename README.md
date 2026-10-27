@@ -2,13 +2,15 @@
 
 Public source repository: https://github.com/medmemara/wingdoku-support
 
+Production site: https://wingdoku.pages.dev/
+
 ## Deployment
 
 Cloudflare Pages uses this Git repository's `main` branch. Build command: `node build.cjs`. Output directory: `dist`. No environment secrets are needed. A push to `main` starts a production deployment once the Git integration is connected.
 
 `deployment.json` contains the deployed source commit and document versions. Compare this with the Git commit and Cloudflare deployment status before reporting a change as live.
 
-The old GitHub Pages site is retained for links in earlier app versions. Do not remove the old privacy or account deletion paths.
+The old GitHub Pages site is retained for links in earlier app versions. Its HTML pages redirect visitors to the matching `wingdoku.pages.dev` page. Without JavaScript, the same policy text remains readable. Do not remove the old privacy or account deletion paths.
 
 ## Editing
 
