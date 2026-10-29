@@ -21,3 +21,9 @@ The old GitHub Pages site is retained for links in earlier app versions. Its HTM
 5. Sync the same source files to the private game's `public-support/` directory.
 
 Only the files listed in `build.cjs` are published to Cloudflare. Do not put credentials, user records, or account tokens in this repository.
+
+## 다국어 검색 페이지
+
+`discovery.json`이 7개 언어의 제품·문의 원고 원본이다. `node build.cjs`가 `discovery-build.cjs`로 언어별 HTML, sitemap.xml, robots.txt, 404.html을 만든다. 기존 정책 HTML과 app-ads.txt는 유지한다. 게임 안의 언어는 133개이며 웹 소개 언어 수와 구분한다.
+
+Google 소유권 확인용 `google*.html`과 공개 IndexNow 증명 파일 `indexnow.txt`는 배포 후에도 유지한다. 이 파일들은 비밀 인증 정보가 아니다. 출시 상태가 바뀌면 `discovery.json`의 상태와 각 언어의 안내를 함께 고친다.

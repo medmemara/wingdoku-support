@@ -1,0 +1,359 @@
+{
+  "updatedOn": "2026-10-29",
+  "appleAppId": "6822739609",
+  "androidPackage": "io.medmemara.starlitgarden",
+  "appleReleased": false,
+  "androidReleased": false,
+  "locales": [
+    {
+      "code": "ko",
+      "label": "한국어",
+      "title": "윙도쿠(Wingdoku) · 스도쿠 팬을 위한 색 논리 퍼즐",
+      "subtitle": "스도쿠 팬을 위한 색 논리 퍼즐",
+      "short": "스도쿠처럼 한 칸씩 추리하세요. 색과 위치로 숨은 적기를 찾는 1,000개 퍼즐과 데일리 챌린지.",
+      "intro": "윙도쿠(Wingdoku)는 스도쿠의 추리를 좋아하는 분을 위한 색 논리 퍼즐입니다. 숫자를 채우는 대신 색과 위치를 읽고, 빈칸을 X로 지우며 숨은 우주선을 찾습니다.\n\n확신이 선 한 칸을 길게 누르세요. 맞히는 순간 레이저와 폭발이 답합니다.",
+      "keywords": "두뇌,추리,퀸즈,스타배틀,격자,데일리,비행기,집중",
+      "faqTitle": "궁금한 점",
+      "detailsTitle": "게임 소개",
+      "screensTitle": "실제 게임 화면",
+      "support": "문의와 도움말",
+      "contact": "이메일로 문의",
+      "privacy": "개인정보처리방침",
+      "terms": "이용약관",
+      "delete": "계정 삭제",
+      "release": "iPhone 출시 준비 중 · Android 테스트 단계",
+      "facts": "무료 · 인앱 구매 없음 · 배너와 선택형 보상 광고",
+      "faq": [
+        [
+          "일반 스도쿠와 어떻게 다른가요?",
+          "숫자를 채우지 않습니다. 색마다, 행마다, 열마다 적기를 하나씩 찾습니다. 적기는 대각선을 포함해 서로 붙을 수 없습니다. 스도쿠처럼 후보를 지우며 답을 좁혀 가는 퍼즐입니다."
+        ],
+        [
+          "아이템과 생명은 다음 판에 초기화되나요?",
+          "아니요. 남은 레이더·힌트·스캐너와 생명은 다음 판에도 이어집니다. 생명은 최대 3개입니다."
+        ],
+        [
+          "인터넷 없이도 할 수 있나요?",
+          "이미 시작한 판은 이어서 풀 수 있습니다. 새 판 시작과 계정 연결, 기록 동기화에는 인터넷이 필요합니다."
+        ],
+        [
+          "로그인이 꼭 필요한가요?",
+          "게스트로 시작할 수 있습니다. Apple 또는 Google 계정을 연결하면 다른 기기에서 서버에 저장된 기록을 불러올 수 있습니다."
+        ],
+        [
+          "유료 결제가 있나요?",
+          "무료이며 인앱 구매는 없습니다. 배너 광고와 아이템·생명 보충을 위한 선택형 보상 동영상 광고가 있습니다."
+        ],
+        [
+          "뮤도쿠(Meowdoku)와 같은 앱인가요?",
+          "아니요. 윙도쿠는 goyo works가 만든 별도의 게임이며 Meowdoku와 제휴하지 않습니다. 윙도쿠에서는 고양이 대신 우주선과 레이저 효과로 색 논리 퍼즐을 즐깁니다."
+        ]
+      ],
+      "storeKey": "ko",
+      "storeName": "윙도쿠: 우주 논리 퍼즐",
+      "description": "윙도쿠(Wingdoku)는 스도쿠의 추리를 좋아하는 분을 위한 색 논리 퍼즐입니다. 숫자를 채우는 대신 색과 위치를 읽고, 빈칸을 X로 지우며 숨은 우주선을 찾습니다.\n\n확신이 선 한 칸을 길게 누르세요. 맞히는 순간 레이저와 폭발이 답합니다.\n\n■ 규칙은 세 가지\n색마다 적기 1기. 행과 열마다 1기. 적기끼리는 대각선으로도 붙을 수 없습니다. 처음에는 튜토리얼이 한 칸씩 찾는 과정을 함께합니다.\n\n■ 완급을 살린 1,000개 스테이지\n가볍게 풀리는 판부터 오래 들여다보게 되는 판까지. 새로운 크기와 색 구역을 만나고, 도전적인 판 사이에서는 잠시 숨을 돌려보세요.\n\n■ 내 기체로, 내 한 발을\n8종의 기체와 서로 다른 레이저·피격 효과. 선명한 도트 그래픽과 우주 음악이 한 칸을 찾아내는 순간을 더 짜릿하게 만듭니다.\n\n■ 오늘의 퍼즐과 주간 랭킹\n데일리 챌린지에 기록을 남기고 주간 순위에 도전하세요. 연속 완료 기록을 쌓는 재미도 있습니다.\n\n■ 막힐 때는 다음 한 수를\n레이더는 적기 한 기를, 스캐너는 빈칸을 찾아줍니다. 힌트로 실마리를 얻어 다시 풀어보세요. 남은 아이템은 다음 판에도 이어집니다.\n\n■ 바로 시작하고, 기록은 이어서\n게스트로 시작할 수 있습니다. Apple·Google 계정을 연결하면 다른 기기에서도 저장한 기록을 이어갈 수 있습니다.\n\n무료 게임이며 배너·선택형 보상 동영상 광고를 포함합니다. 인앱 구매는 없습니다. 새 퍼즐 시작과 기록 동기화에는 인터넷 연결이 필요합니다. 13세 이상 청소년·성인을 대상으로 합니다.",
+      "storeLocale": "ko-KR",
+      "path": "/"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "title": "Wingdoku · Sudoku-inspired color logic puzzles",
+      "subtitle": "Sudoku-style color deduction",
+      "short": "For Sudoku fans: find hidden ships in 1,000 color puzzles and daily challenges.",
+      "intro": "Love the deduction in Sudoku? Wingdoku turns it into color logic puzzles with hidden spaceships. Read the regions, mark empty cells with X, and find the one cell that must be right. No numbers to fill in.\n\nPress and hold your answer. A laser and a burst of pixels make each discovery count.",
+      "keywords": "queens,starbattle,brain,grid,daily,ships,relax,challenge,pixel",
+      "faqTitle": "Questions and answers",
+      "detailsTitle": "About the game",
+      "screensTitle": "Actual game screens",
+      "support": "Help and support",
+      "contact": "Email support",
+      "privacy": "Privacy policy",
+      "terms": "Terms of use",
+      "delete": "Delete account",
+      "release": "Preparing for iPhone release · Android in testing",
+      "facts": "Free · No in-app purchases · Banner and optional rewarded ads",
+      "faq": [
+        [
+          "How is Wingdoku different from classic Sudoku?",
+          "You do not fill in numbers. Find one enemy per color region, row and column. Enemies cannot touch, even diagonally. Like Sudoku, you narrow down possibilities by eliminating cells."
+        ],
+        [
+          "Do items and lives reset with each puzzle?",
+          "No. Remaining Radar, Hint, Scanner and lives carry over to the next puzzle. Lives are capped at three."
+        ],
+        [
+          "Can I play offline?",
+          "You can continue a puzzle you already started. Starting a new puzzle, linking an account and syncing progress need an internet connection."
+        ],
+        [
+          "Do I need to sign in?",
+          "You can start as a guest. Linking Apple or Google lets you load progress saved to the server on another device."
+        ],
+        [
+          "Are there purchases?",
+          "The game is free with no in-app purchases. It includes banner ads and optional rewarded videos to refill items or lives."
+        ],
+        [
+          "Is Wingdoku the same app as Meowdoku?",
+          "No. Wingdoku is a separate game by goyo works and is not affiliated with Meowdoku. Wingdoku uses spaceships, lasers and pixel effects for its color logic puzzles."
+        ]
+      ],
+      "storeKey": "en-US",
+      "storeName": "Wingdoku: Space Logic Puzzle",
+      "description": "Love the deduction in Sudoku? Wingdoku turns it into color logic puzzles with hidden spaceships. Read the regions, mark empty cells with X, and find the one cell that must be right. No numbers to fill in.\n\nPress and hold your answer. A laser and a burst of pixels make each discovery count.\n\nTHREE RULES. PLENTY OF AHA MOMENTS.\nOne enemy per color. One in each row and column. Enemies never touch, even diagonally. A guided first puzzle helps you learn each deduction.\n\n1,000 PUZZLES AT A SATISFYING PACE\nEase in, stretch your skills, and enjoy lighter boards between tougher challenges. New sizes and color regions keep you looking for your next breakthrough.\n\nMAKE EVERY HIT YOURS\nChoose from eight ships with distinct lasers and hit effects. Bright pixel art and space music make each discovery feel good.\n\nCOME BACK FOR TODAY'S CHALLENGE\nTry the Daily Challenge, build a completion streak, and climb the weekly rankings.\n\nA HAND WHEN YOU NEED IT\nRadar reveals a ship, Scanner marks empty cells, and Hint helps you find a next step. Unused items carry over to your next puzzle.\n\nSTART AS A GUEST. KEEP YOUR PROGRESS.\nLink Apple or Google to continue your saved progress on another device.\n\nFree to play with banner ads and optional rewarded video ads. No in-app purchases. Starting new puzzles and syncing progress require an internet connection. Intended for ages 13 and up.",
+      "storeLocale": "en-US",
+      "path": "/en/"
+    },
+    {
+      "code": "ja",
+      "label": "日本語",
+      "title": "Wingdoku · 数独好きのための色ロジックパズル",
+      "subtitle": "数独好きに。色と配置で敵機を発見",
+      "short": "数独・ナンプレ好きに。色と配置で隠れた敵機を見つける1,000問と毎日のチャレンジ。",
+      "intro": "数独やナンプレの推理が好きなら、Wingdokuへ。数字の代わりに色と配置を読み、空きマスにXを付けて、隠れた敵機を探すロジックパズルです。\n\n「ここしかない！」と思ったマスを長押し。レーザーと爆発が、ひらめきに応えます。",
+      "keywords": "ナンプレ,クイーンズ,脳トレ,推理,宇宙船,毎日,ドット絵",
+      "faqTitle": "よくある質問",
+      "detailsTitle": "ゲームについて",
+      "screensTitle": "実際のゲーム画面",
+      "support": "ヘルプとサポート",
+      "contact": "メールで問い合わせ",
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "delete": "アカウント削除",
+      "release": "iPhone版リリース準備中 · Android版テスト中",
+      "facts": "無料 · アプリ内購入なし · バナー広告と任意の報酬型動画広告",
+      "faq": [
+        [
+          "普通の数独とは何が違いますか？",
+          "数字は入れません。各色の領域、各行、各列に1機ずつ敵機を見つけます。敵機同士は斜めにも隣接できません。数独のように候補を消して答えを絞ります。"
+        ],
+        [
+          "アイテムやライフは毎回リセットされますか？",
+          "いいえ。レーダー・ヒント・スキャナーとライフの残数は次の問題に引き継がれます。ライフの上限は3です。"
+        ],
+        [
+          "オフラインでも遊べますか？",
+          "始めた問題は続けられます。新しい問題の開始、アカウント連携、進行状況の同期にはインターネットが必要です。"
+        ],
+        [
+          "ログインは必要ですか？",
+          "ゲストで始められます。AppleまたはGoogleを連携すると、サーバーに保存した進行状況を別の端末で読み込めます。"
+        ],
+        [
+          "課金はありますか？",
+          "無料で、アプリ内購入はありません。バナー広告と、アイテムやライフを補充するための任意の報酬型動画広告があります。"
+        ],
+        [
+          "Meowdokuと同じアプリですか？",
+          "いいえ。Wingdokuはgoyo worksの別のゲームで、Meowdokuとは提携していません。宇宙船、レーザー、ドット絵の演出で色ロジックパズルを楽しめます。"
+        ]
+      ],
+      "storeKey": "ja",
+      "storeName": "Wingdoku：宇宙ロジックパズル",
+      "description": "数独やナンプレの推理が好きなら、Wingdokuへ。数字の代わりに色と配置を読み、空きマスにXを付けて、隠れた敵機を探すロジックパズルです。\n\n「ここしかない！」と思ったマスを長押し。レーザーと爆発が、ひらめきに応えます。\n\n■ ルールは3つ\n色ごとに1機。各行・各列に1機。敵機同士は斜めを含めて隣り合いません。最初のチュートリアルで、一マスずつ考え方を覚えられます。\n\n■ メリハリのある1,000ステージ\n気軽に解ける盤面から、じっくり向き合う難問まで。大きさや色の区切りが変わり、難しいステージの間にはひと息つける問題も登場します。\n\n■ お気に入りの機体で出撃\n8種類の機体と、それぞれ異なるレーザー・ヒット演出。鮮やかなドット絵と宇宙らしい音楽が、正解を見つける瞬間を盛り上げます。\n\n■ 今日の挑戦を楽しもう\nデイリーチャレンジ、連続クリア記録、週間ランキングに挑戦できます。\n\n■ 困ったときの助っ人\nレーダーで敵機を見つけ、スキャナーで空きマスを確認。ヒントから次の一手を探しましょう。残ったアイテムは次のステージにも持ち越せます。\n\n■ ゲストですぐにスタート\nAppleまたはGoogleと連携すると、保存した進行状況を別の端末でも引き継げます。\n\n基本無料。バナー広告と任意のリワード動画広告を含みます。アプリ内購入はありません。新しいパズルの開始とデータ同期にはインターネット接続が必要です。13歳以上を対象としています。",
+      "storeLocale": "ja-JP",
+      "path": "/ja/"
+    },
+    {
+      "code": "de",
+      "label": "Deutsch",
+      "title": "Wingdoku · Farb-Logikrätsel für Sudoku-Fans",
+      "subtitle": "Für Sudoku-Fans: Farbenrätsel",
+      "short": "Für Sudoku-Fans: Finde Raumschiffe in 1.000 Farbrätseln und täglichen Aufgaben.",
+      "intro": "Du magst das Kombinieren bei Sudoku? In Wingdoku suchst du versteckte Raumschiffe in farbigen Feldern. Lies die Regionen, markiere leere Felder mit X und grenze die Lösung ein. Ganz ohne Zahlen.\n\nHalte das richtige Feld gedrückt. Laser und Pixeleffekte begleiten jeden Treffer.",
+      "keywords": "queens,starbattle,denken,knobeln,raumschiff,täglich,pixel,raster",
+      "faqTitle": "Fragen und Antworten",
+      "detailsTitle": "Über das Spiel",
+      "screensTitle": "Echte Spielansichten",
+      "support": "Hilfe und Kontakt",
+      "contact": "E-Mail an den Support",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen",
+      "delete": "Konto löschen",
+      "release": "iPhone-Veröffentlichung in Vorbereitung · Android in der Testphase",
+      "facts": "Kostenlos · Keine In-App-Käufe · Banner und freiwillige Belohnungsvideos",
+      "faq": [
+        [
+          "Was ist anders als bei klassischem Sudoku?",
+          "Du trägst keine Zahlen ein. Finde je einen Gegner pro Farbregion, Zeile und Spalte. Gegner dürfen sich auch diagonal nicht berühren. Wie bei Sudoku grenzt du die Lösung durch Ausschließen ein."
+        ],
+        [
+          "Werden Hilfen und Leben nach jedem Rätsel zurückgesetzt?",
+          "Nein. Übriges Radar, Hinweise, Scanner und Leben bleiben für das nächste Rätsel erhalten. Du kannst höchstens drei Leben haben."
+        ],
+        [
+          "Kann ich offline spielen?",
+          "Ein begonnenes Rätsel kannst du fortsetzen. Für neue Rätsel, die Kontoverknüpfung und die Synchronisierung brauchst du Internet."
+        ],
+        [
+          "Muss ich mich anmelden?",
+          "Du kannst als Gast beginnen. Verknüpfe Apple oder Google, um deinen auf dem Server gespeicherten Fortschritt auf einem anderen Gerät zu laden."
+        ],
+        [
+          "Gibt es Käufe?",
+          "Das Spiel ist kostenlos und hat keine In-App-Käufe. Es enthält Bannerwerbung und freiwillige Belohnungsvideos zum Auffüllen von Hilfen oder Leben."
+        ],
+        [
+          "Ist Wingdoku dieselbe App wie Meowdoku?",
+          "Nein. Wingdoku ist ein eigenständiges Spiel von goyo works und steht in keiner Verbindung zu Meowdoku. Seine Farb-Logikrätsel verwenden Raumschiffe, Laser und Pixeleffekte."
+        ]
+      ],
+      "storeKey": "de-DE",
+      "storeName": "Wingdoku: Weltraum-Logik",
+      "description": "Du magst das Kombinieren bei Sudoku? In Wingdoku suchst du versteckte Raumschiffe in farbigen Feldern. Lies die Regionen, markiere leere Felder mit X und grenze die Lösung ein. Ganz ohne Zahlen.\n\nHalte das richtige Feld gedrückt. Laser und Pixeleffekte begleiten jeden Treffer.\n\nDREI REGELN, VIELE AHA-MOMENTE\nEin Gegner pro Farbe, pro Zeile und pro Spalte. Gegner dürfen sich auch diagonal nicht berühren. Das erste Rätsel führt dich Schritt für Schritt durch die Logik.\n\n1.000 RÄTSEL MIT ABWECHSLUNG\nLeichtere Runden wechseln sich mit kniffligen Aufgaben ab. Neue Größen und Farbgebiete sorgen für frische Herausforderungen.\n\nDEIN SCHIFF, DEIN TREFFER\nWähle aus acht Schiffen mit unterschiedlichen Lasern und Treffereffekten. Leuchtende Pixelgrafik und Weltraummusik begleiten deine Entdeckungen.\n\nJEDEN TAG EIN NEUER ANLASS\nSpiele die tägliche Herausforderung, baue eine Abschlussserie auf und tritt in der Wochenrangliste an.\n\nHILFE FÜR DEN NÄCHSTEN ZUG\nRadar deckt einen Gegner auf, Scanner markiert leere Felder und Hinweise helfen dir weiter. Übrige Hilfsmittel bleiben für das nächste Rätsel erhalten.\n\nSTARTE ALS GAST\nVerknüpfe Apple oder Google, um deinen gespeicherten Fortschritt auf einem anderen Gerät fortzusetzen.\n\nKostenlos mit Bannerwerbung und freiwilligen Belohnungsvideos. Keine In-App-Käufe. Neue Rätsel und die Synchronisierung benötigen Internet. Für Nutzer ab 13 Jahren vorgesehen.",
+      "storeLocale": "de-DE",
+      "path": "/de/"
+    },
+    {
+      "code": "es",
+      "label": "Español",
+      "title": "Wingdoku · Puzles de lógica y colores para fans del sudoku",
+      "subtitle": "Lógica de colores, sin números",
+      "short": "Para fans del sudoku: busca naves en 1.000 puzles de colores y retos diarios.",
+      "intro": "¿Te gusta deducir en el sudoku? En Wingdoku buscas naves ocultas en un tablero de colores. Observa las regiones, marca casillas vacías con X y reduce las posibilidades. Sin rellenar números.\n\nMantén pulsada la respuesta. Los láseres y las explosiones de píxeles acompañan cada acierto.",
+      "keywords": "sudoku,queens,starbattle,ingenio,cerebro,tablero,diario,píxeles,desafío",
+      "faqTitle": "Preguntas y respuestas",
+      "detailsTitle": "Sobre el juego",
+      "screensTitle": "Pantallas reales del juego",
+      "support": "Ayuda y contacto",
+      "contact": "Enviar un correo",
+      "privacy": "Privacidad",
+      "terms": "Condiciones de uso",
+      "delete": "Eliminar cuenta",
+      "release": "Preparando el lanzamiento en iPhone · Android en fase de pruebas",
+      "facts": "Gratis · Sin compras integradas · Banners y vídeos de recompensa opcionales",
+      "faq": [
+        [
+          "¿En qué se diferencia del sudoku clásico?",
+          "No rellenas números. Encuentras un enemigo por región de color, fila y columna. Los enemigos no pueden tocarse, ni en diagonal. Como en el sudoku, descartas casillas para deducir la respuesta."
+        ],
+        [
+          "¿Se reinician los objetos y las vidas en cada puzle?",
+          "No. El radar, las pistas, el escáner y las vidas restantes pasan al siguiente puzle. El máximo es de tres vidas."
+        ],
+        [
+          "¿Puedo jugar sin conexión?",
+          "Puedes continuar un puzle ya iniciado. Para empezar otro, vincular una cuenta y sincronizar el progreso necesitas internet."
+        ],
+        [
+          "¿Hace falta iniciar sesión?",
+          "Puedes empezar como invitado. Vincula Apple o Google para cargar en otro dispositivo el progreso guardado en el servidor."
+        ],
+        [
+          "¿Hay compras?",
+          "El juego es gratuito y no tiene compras integradas. Incluye banners y vídeos de recompensa opcionales para recargar objetos o vidas."
+        ],
+        [
+          "¿Wingdoku es la misma aplicación que Meowdoku?",
+          "No. Wingdoku es un juego independiente de goyo works y no está asociado con Meowdoku. Sus puzles de colores usan naves, láseres y efectos de píxeles."
+        ]
+      ],
+      "storeKey": "es-ES",
+      "storeName": "Wingdoku: puzles espaciales",
+      "description": "¿Te gusta deducir en el sudoku? En Wingdoku buscas naves ocultas en un tablero de colores. Observa las regiones, marca casillas vacías con X y reduce las posibilidades. Sin rellenar números.\n\nMantén pulsada la respuesta. Los láseres y las explosiones de píxeles acompañan cada acierto.\n\nTRES REGLAS, MUCHOS MOMENTOS DE EUREKA\nUn enemigo por color, por fila y por columna. Los enemigos no pueden tocarse, ni siquiera en diagonal. El primer puzle te enseña a deducir cada paso.\n\n1.000 PUZLES CON BUEN RITMO\nAlterna partidas ligeras con retos que exigen más atención. Descubre tableros de distintos tamaños y nuevas regiones de color.\n\nTU NAVE, TU DISPARO\nElige entre ocho naves con láseres y efectos de impacto diferentes. El colorido arte de píxeles y la música espacial dan fuerza a cada acierto.\n\nVUELVE POR EL RETO DE HOY\nPrueba el desafío diario, encadena días completados y sube en la clasificación semanal.\n\nUNA AYUDA CUANDO LA NECESITAS\nEl radar descubre un enemigo, el escáner marca casillas vacías y las pistas te ayudan a encontrar el siguiente paso. Los objetos que te sobren pasan al siguiente puzle.\n\nEMPIEZA COMO INVITADO\nVincula Apple o Google para continuar tu progreso guardado en otro dispositivo.\n\nJuego gratuito con anuncios de banner y vídeos de recompensa opcionales. Sin compras dentro de la aplicación. Se necesita conexión para iniciar nuevos puzles y sincronizar. Para jugadores de 13 años o más.",
+      "storeLocale": "es-ES",
+      "path": "/es/"
+    },
+    {
+      "code": "fr",
+      "label": "Français",
+      "title": "Wingdoku · Logique et couleurs pour les fans de sudoku",
+      "subtitle": "Pour les fans de sudoku",
+      "short": "Pour les fans de sudoku : trouvez les vaisseaux dans 1 000 grilles de couleurs.",
+      "intro": "Vous aimez déduire les réponses d’un sudoku ? Dans Wingdoku, cherchez des vaisseaux cachés dans une grille de couleurs. Observez les zones, marquez les cases vides d’un X et éliminez les possibilités. Sans remplir de chiffres.\n\nMaintenez le doigt sur la bonne case. Lasers et éclats de pixels accompagnent votre découverte.",
+      "keywords": "réflexion,énigme,cerveau,queens,starbattle,grille,quotidien,pixel,défi",
+      "faqTitle": "Questions et réponses",
+      "detailsTitle": "À propos du jeu",
+      "screensTitle": "Écrans réels du jeu",
+      "support": "Aide et contact",
+      "contact": "Contacter par e-mail",
+      "privacy": "Confidentialité",
+      "terms": "Conditions d’utilisation",
+      "delete": "Supprimer le compte",
+      "release": "Sortie iPhone en préparation · Android en phase de test",
+      "facts": "Gratuit · Aucun achat intégré · Bannières et vidéos récompensées facultatives",
+      "faq": [
+        [
+          "Quelle différence avec un sudoku classique ?",
+          "Vous ne remplissez pas de chiffres. Trouvez un ennemi par zone de couleur, ligne et colonne. Les ennemis ne peuvent pas se toucher, même en diagonale. Comme au sudoku, éliminez des cases pour déduire la réponse."
+        ],
+        [
+          "Les aides et les vies sont-elles réinitialisées à chaque grille ?",
+          "Non. Le radar, les indices, le scanner et les vies restantes sont conservés pour la grille suivante. Le maximum est de trois vies."
+        ],
+        [
+          "Peut-on jouer hors ligne ?",
+          "Vous pouvez continuer une grille déjà commencée. Une connexion est nécessaire pour démarrer une nouvelle grille, associer un compte et synchroniser la progression."
+        ],
+        [
+          "Faut-il se connecter ?",
+          "Vous pouvez commencer en invité. Associez Apple ou Google pour charger sur un autre appareil votre progression enregistrée sur le serveur."
+        ],
+        [
+          "Y a-t-il des achats ?",
+          "Le jeu est gratuit, sans achat intégré. Il contient des bannières et des vidéos récompensées facultatives pour recharger les aides ou les vies."
+        ],
+        [
+          "Wingdoku est-il la même application que Meowdoku ?",
+          "Non. Wingdoku est un jeu distinct créé par goyo works, sans affiliation avec Meowdoku. Ses grilles de logique utilisent des vaisseaux, des lasers et des effets en pixels."
+        ]
+      ],
+      "storeKey": "fr-FR",
+      "storeName": "Wingdoku : logique spatiale",
+      "description": "Vous aimez déduire les réponses d’un sudoku ? Dans Wingdoku, cherchez des vaisseaux cachés dans une grille de couleurs. Observez les zones, marquez les cases vides d’un X et éliminez les possibilités. Sans remplir de chiffres.\n\nMaintenez le doigt sur la bonne case. Lasers et éclats de pixels accompagnent votre découverte.\n\nTROIS RÈGLES, DE VRAIES DÉCOUVERTES\nUn ennemi par couleur, par ligne et par colonne. Les ennemis ne peuvent pas se toucher, même en diagonale. La première grille vous guide pas à pas dans le raisonnement.\n\n1 000 GRILLES AU RYTHME VARIÉ\nDes parties légères alternent avec des défis plus corsés. De nouvelles tailles et zones de couleur renouvellent le plaisir de trouver.\n\nVOTRE VAISSEAU, VOTRE TIR\nChoisissez parmi huit vaisseaux aux lasers et effets d'impact différents. Le pixel art lumineux et la musique spatiale accompagnent chaque découverte.\n\nLE RENDEZ-VOUS DU JOUR\nRelevez le défi quotidien, construisez une série de jours terminés et progressez dans le classement hebdomadaire.\n\nUN COUP DE POUCE AU BON MOMENT\nLe radar révèle un ennemi, le scanner marque des cases vides et les indices vous aident à trouver la suite. Les objets inutilisés restent disponibles pour la grille suivante.\n\nCOMMENCEZ EN INVITÉ\nAssociez Apple ou Google pour reprendre votre progression sauvegardée sur un autre appareil.\n\nJeu gratuit avec bannières publicitaires et vidéos récompensées facultatives. Aucun achat intégré. Internet est nécessaire pour commencer de nouvelles grilles et synchroniser. Destiné aux joueurs de 13 ans et plus.",
+      "storeLocale": "fr-FR",
+      "path": "/fr/"
+    },
+    {
+      "code": "zh-Hans",
+      "label": "简体中文",
+      "title": "Wingdoku · 为数独爱好者打造的色块逻辑谜题",
+      "subtitle": "数独爱好者的色块逻辑挑战",
+      "short": "喜欢数独推理？观察颜色与位置，找出隐藏战机。1,000道逻辑谜题与每日挑战等你来解。",
+      "intro": "喜欢数独一步步推理的乐趣？来试试Wingdoku的色块逻辑谜题。观察区域与位置，用X标出空格，逐步找出隐藏战机。不用填写数字。\n\n确定答案后长按那一格，让激光和像素爆炸回应你的发现。",
+      "keywords": "益智游戏,空间推理,脑力训练,每日挑战,像素战机,皇后谜题",
+      "faqTitle": "常见问题",
+      "detailsTitle": "游戏介绍",
+      "screensTitle": "实际游戏画面",
+      "support": "帮助与联系",
+      "contact": "发送邮件",
+      "privacy": "隐私政策",
+      "terms": "使用条款",
+      "delete": "删除账户",
+      "release": "iPhone版准备发布 · Android版测试中",
+      "facts": "免费 · 无应用内购买 · 含横幅广告和自选激励视频广告",
+      "faq": [
+        [
+          "和传统数独有什么不同？",
+          "不用填写数字。每种颜色区域、每行和每列各找出1架敌机。敌机不能相邻，对角线也不例外。和数独一样，你需要排除可能性，逐步推理出答案。"
+        ],
+        [
+          "每一关都会重置道具和生命吗？",
+          "不会。剩余的雷达、提示、扫描器和生命会保留到下一关。生命上限为3。"
+        ],
+        [
+          "可以离线玩吗？",
+          "可以继续已经开始的谜题。开始新谜题、关联账户和同步进度需要联网。"
+        ],
+        [
+          "必须登录吗？",
+          "可以先以游客身份开始。关联Apple或Google后，可以在其他设备上读取保存在服务器上的进度。"
+        ],
+        [
+          "有付费购买吗？",
+          "游戏免费，没有应用内购买。包含横幅广告，以及用于补充道具或生命的自选激励视频广告。"
+        ],
+        [
+          "Wingdoku和Meowdoku是同一个应用吗？",
+          "不是。Wingdoku是goyo works制作的独立游戏，与Meowdoku没有关联。它以宇宙飞船、激光和像素特效呈现色块逻辑谜题。"
+        ]
+      ],
+      "storeKey": "zh-Hans",
+      "storeName": "Wingdoku：星际逻辑谜题",
+      "description": "喜欢数独一步步推理的乐趣？来试试Wingdoku的色块逻辑谜题。观察区域与位置，用X标出空格，逐步找出隐藏战机。不用填写数字。\n\n确定答案后长按那一格，让激光和像素爆炸回应你的发现。\n\n三条规则，一步步发现答案\n每种颜色有1架敌机，每行每列各有1架。敌机之间不能相邻，对角线也不例外。第一关会带你亲手找出敌机、排除空格，学会推理方法。\n\n张弛有度的1,000个关卡\n从轻松上手的小谜题，到需要专注思考的挑战。棋盘大小和色块不断变化，难关之间也有适合放松的关卡。\n\n驾驶喜欢的战机出击\n8种战机拥有不同的激光和命中特效。鲜亮的像素画面与太空音乐，让每次发现答案都更有感觉。\n\n每天都有新的挑战\n挑战每日谜题，积累连续完成记录，并向每周排行榜发起挑战。\n\n卡住时，找一点新线索\n雷达可以找出敌机，扫描器可以标出空格，提示可以帮助你找到下一步。剩余道具会保留到下一关。\n\n以游客身份直接开始\n关联Apple或Google账户后，可以在其他设备上继续已保存的进度。\n\n游戏免费下载，包含横幅广告和可自行选择观看的激励视频广告，无应用内购买。开始新谜题和同步进度需要联网。面向13岁及以上的青少年和成年人。",
+      "storeLocale": "zh-CN",
+      "path": "/zh-Hans/"
+    }
+  ]
+}
